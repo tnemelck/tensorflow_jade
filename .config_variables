@@ -1,0 +1,16 @@
+Fichier de sauvagarde des adresses de train : /home/elvex/utt/SRT6/TX_deep_learning/train/
+Fichier de sauvagarde adresses sses de labels de train associés : /home/elvex/utt/SRT6/TX_deep_learning/perso/.image_label.npy
+Fichier de sauvagarde adresses des images de train : /home/elvex/utt/SRT6/TX_deep_learning/perso/.image_train.npy
+Fichier de sauvagarde adresses des images de validation : /home/elvex/utt/SRT6/TX_deep_learning/perso/.image_validation.npy
+Fichier de sauvagarde adresses des images de test : /home/elvex/utt/SRT6/TX_deep_learning/perso/.image_test.npy
+Fichier de sauvagarde adresses des labels de train : /home/elvex/utt/SRT6/TX_deep_learning/perso/.label_train.npy
+Fichier de sauvagarde adresses des labels de valisation : /home/elvex/utt/SRT6/TX_deep_learning/perso/.label_validation.npy
+Fichier de sauvagarde adresses des labels de test : /home/elvex/utt/SRT6/TX_deep_learning/perso/.label_test.npy
+Largeur : 200
+Hauteur : 200
+Nombre de classes : 2
+Learning rate : 0.0001
+Fichier de log : /tmp/dog_cat_model
+Nombre maximum d'images à traiter : 200
+Batch size : 50
+Nombre d'itération du classifieur : 1000
